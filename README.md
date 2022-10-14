@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola soy Oscar Moreno Ramos. Soy estudiente de Ingenieria en Sistemas computacionales
+##Estudiante del Instituto Tecnologico de Nuevo Laredo
+#*Aprendiendo lenguajes de programacion como "C#", JavaScrip,*
 
 <!--
 **Moreno-R01/Moreno-R01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
